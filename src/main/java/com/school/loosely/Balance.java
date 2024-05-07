@@ -1,5 +1,6 @@
 package com.school.loosely;
 
+
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
@@ -14,5 +15,5 @@ public abstract class Balance {
     private UUID userId;
     private BigDecimal amount;
 
-     public abstract void addBalance(BigDecimal amount);
+    public abstract void addBalance(BigDecimal amount);
 }
