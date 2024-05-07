@@ -1,4 +1,6 @@
-package com.cydeo.tightly;
+package com.school.tightly;
+
+
 
 import lombok.Getter;
 import lombok.Setter;

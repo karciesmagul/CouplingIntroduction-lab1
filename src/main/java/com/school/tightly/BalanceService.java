@@ -1,4 +1,4 @@
-package com.cydeo.tightly;
+package com.school.tightly;
 import java.math.BigDecimal;
 
 public class BalanceService {
